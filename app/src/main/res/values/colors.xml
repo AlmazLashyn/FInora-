@@ -1,0 +1,12 @@
+<resources>
+    <color name="brand_navy">#183C36</color>
+    <color name="brand_green">#2C8068</color>
+    <color name="brand_mint">#D9F1E6</color>
+    <color name="brand_lime">#B8E6C5</color>
+    <color name="canvas">#F4F7F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="ink">#18342E</color>
+    <color name="muted">#71827C</color>
+    <color name="line">#E6ECE8</color>
+    <color name="coral">#E88767</color>
+</resources>
