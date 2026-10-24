@@ -4,7 +4,7 @@
 
 | Project | Details |
 | --- | --- |
-| Author / maintainer | Almaz |
+| Author / maintainer | Almaz Lashyn|
 | Project started | December 2025 |
 | Current app version | 1.0.0 |
 | Platform | Android 8.0 (API 26) and newer |
